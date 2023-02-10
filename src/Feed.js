@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import "./Feed.css"
 import Post from './Post'
 import TweetBox from './TweetBox'
