@@ -36,6 +36,17 @@ function Feed() {
                 image="https://pbs.twimg.com/media/FnmZ2MdWYAI_LfI?format=jpg&name=small"
 
             />
+                    
+                     <Post
+                displayName="Narendra Modi"
+                username='narendramodi'
+                verified={true}
+                text="सभी तटरक्षक कर्मियों को उनके स्थापना दिवस पर बधाई। भारतीय तटरक्षक अपने व्यावसायिकता और हमारे तटों को सुरक्षित रखने के प्रयासों के लिए जाना जाता है। मैं उन्हें उनके भविष्य के प्रयासों के लिए अपनी शुभकामनाएं भी देता हूं।"
+                image="https://pbs.twimg.com/media/Fn2aY75aAAEazR1?format=jpg&name=large"
+                avatar="https://pbs.twimg.com/profile_images/1565985672501927936/d-r-h241_400x400.jpg"
+
+            />
+
             <Post
                 displayName="Kevin Hart"
                 username='kevinhart244'
@@ -67,16 +78,7 @@ function Feed() {
                 image="https://pbs.twimg.com/media/FbgEMFWUEAAs4bs?format=jpg&name=4096x4096"
 
             />
-            <Post
-                displayName="Narendra Modi"
-                username='narendramodi'
-                verified={true}
-                text="सभी तटरक्षक कर्मियों को उनके स्थापना दिवस पर बधाई। भारतीय तटरक्षक अपने व्यावसायिकता और हमारे तटों को सुरक्षित रखने के प्रयासों के लिए जाना जाता है। मैं उन्हें उनके भविष्य के प्रयासों के लिए अपनी शुभकामनाएं भी देता हूं।"
-                image="https://pbs.twimg.com/media/Fn2aY75aAAEazR1?format=jpg&name=large"
-                avatar="https://pbs.twimg.com/profile_images/1565985672501927936/d-r-h241_400x400.jpg"
-
-            />
-
+           
 
         </div>
     )
